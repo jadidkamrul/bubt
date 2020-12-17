@@ -1,0 +1,15 @@
+﻿/*!
+ * JiS is “Images slider for jQuery framework”.
+ *
+ * @author demorfi <demorfi@gmail.com>
+ * @version 1.0
+ * @source https://github.com/demorfi/jis
+ * @license http://opensource.org/licenses/MIT Licensed under MIT License
+ */.jis-wrapper img{border:0}.jis-wrapper ul{list-style:none;margin:0;padding:0;width:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0.15);position:relative;z-index:1;}
+ .jis-wrapper ul li{float:left;position:relative;z-index:1;display:none;width:100%;height:100%}
+ .jis-wrapper ul li a{position:relative;display:block;left:0;top:0;right:0;bottom:0;z-index:2}
+ .jis-wrapper ul li .jis-title{position:relative;z-index:3;height:40px;bottom:40px;line-height:40px;padding:0 15px;color:#fff;text-shadow:0 1px #000;background:rgba(0,0,0,0.6);overflow:hidden;display:none}
+ .jis-wrapper ul li.jis-selected{display:block}
+ .jis-wrapper ul li.jis-selected .jis-title{display:block}.jis-wrapper ul.jis-loading{background:0}
+
+ 

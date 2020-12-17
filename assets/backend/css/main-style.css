@@ -1,0 +1,149 @@
+body{
+    font-family: 'Open Sans', sans-serif!important;
+}
+/* user image section */
+.user-section {
+    padding: 20px 0px;
+    font-size:17px;
+    background-color: rgb(51, 51, 51);;
+}
+.user-section-inner {
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+    display: inline-block;
+    float: left;
+}
+.user-section-inner img {
+    margin-left:10px;
+    width:60px;
+    height:60px;
+
+}
+.user-info {
+    display: block;
+    color:#fff!important;
+    display: inline-block;
+    padding: 0px 15px;;
+    margin-bottom: 0px
+}
+.user-text-online {
+    font-size:14px;
+    color:#fff
+}
+.user-circle-online {
+    width: 11px!important;
+    height: 11px!important;
+    padding: 2px 0px;
+}
+
+/* side-menu section */
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color:rgb(120, 204, 225);
+}
+.navbar-top-links  .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: rgb(51, 51, 51)!important;
+    border-left: 2px #00acac;
+    color: #fff;
+}
+.navbar-top-links > li > a:hover{
+    color: #fff;
+}
+.navbar-top-links > li > a {
+    color: #333;
+}
+.navbar{
+    margin-bottom: 0!important;
+}
+.nav > li > a {
+    padding: 20px 15px;
+}
+/*#side-menu {
+    background-color:rgb(51, 51, 51);
+}*/
+#side-menu {
+    background-color: rgb(255, 255, 255);
+}
+.selected {
+    background-color:#19429a;
+}
+.selected:hover{
+    background-color:#19429a!important;
+}
+/* back colors */
+.blue {
+    background-color:rgb(113, 159, 241);
+}
+.green {
+    background-color:rgb(144, 236, 192);
+}
+.red {
+    background-color:rgb(255, 102, 133);
+}
+.yellow {
+    background-color:rgb(237, 253, 46);
+}
+
+/* No border */
+.no-boder {
+    border:0px solid #5bc0de !important;
+}
+/* tap nvbar Section */
+
+#navbar {
+    background-color:#fff;
+}
+
+.navbar-brand {
+    padding-left:20px;
+}
+.navbar-brand img {
+    height: 50px;
+    margin-top: -10px;
+}
+.top-label {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-top: -15px;
+    margin-right: -20px;
+}
+
+/*large font*/
+.large-font {
+    font-size:18px;
+}
+
+.body-Login-back {
+    background-color:#84B899;
+}
+
+.margin-tips {
+    margin:5px;
+}
+.navbar-default {
+    border-color: #fff;
+}
+/*media queries*/
+
+@media(min-width:768px) 
+{
+    #page-wrapper {
+        position: inherit;
+        margin: 0 0 0 250px;
+        min-height: 1000px;
+
+
+    }
+
+}
+
+@media(max-width:768px) {
+    #wrapper {
+        margin-top:140px!important;
+
+    }
+}

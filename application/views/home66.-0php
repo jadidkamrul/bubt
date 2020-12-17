@@ -1,0 +1,783 @@
+
+
+        <section id="devs-to-academic">
+            <div class="container">
+                <div class="devs-academic-commment" style="background-image: url(<?php echo base_url(); ?>assets/frontend/componats/new-image/bubt.png);
+                     background-size: 100% 100%;
+                     background-repeat: no-repeat;
+                     overflow: hidden;
+                     padding-bottom: 80px;
+                     padding-top: 80px;">
+                    <div class="col-md-6 devs-nopadding">
+                        <div class="col-md-12 devs-nopadding">
+                            <div class="academic-exc">
+                                <h1>Committed To<br>Academic Excellence</h1>
+                            </div>
+                            <div class="col-md-12 devs-nopadding">
+                                <div class="banner-img">
+
+                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                                        <div class="carousel-inner" role="listbox">
+                                            <div class="item active" id="image">
+                                                <img  src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/02.png" class="img-responsive" style="height:220px; width:100%;">
+                                            </div>
+
+                                            <div class="item" id="image2">
+                                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/03.png" class="img-responsive" style="height:220px; width:100%;">
+                                            </div>
+
+                                            <div class="item" id="image3">
+                                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/01.png" class="img-responsive" style="height:220px; width:100%;">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="devs-imgdescri-one">
+                                    <p class="imgdescri-one" style="width: 79%;text-align: justify;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a <a href="" class="pull-right"><img src="componats/new-image/Next-Button.png" style="height:15px; width: 15px;"></a>  </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-6 col-md-6 devs-nopadding">
+                            <div class="">
+                                <div class="videoWrapperOuter">
+                                    <div class="videoWrapperInner">
+                                        <iframe src="https://www.youtube.com/embed/WMq1qXh1oWE" 
+
+                                                frameborder="0" style="height:208px;" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 devs-nopadding">
+                        <div class="col-md-12 devs-nopadding">
+                            <div class="banner-img">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB2.png" class="img-responsive" style="height:220px; width:100%;">
+                            </div>
+                            <div class="devs-imgdescri-two">
+                                <p class="imgdescri-one" style="margin-left: 17%;text-align: justify;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a <a href="" class="pull-right"><img src="componats/new-image/Next-Button.png" style="height:15px; width: 15px;"></a></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 devs-nopadding">
+                            <div class="banner-img">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB4.jpg" class="img-responsive" style="height:300px; width:100%;">
+                            </div>
+                            <div class="devs-imgdescri-three">
+                                <p class="imgdescri-one">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  a galley of type and scrambled it to make a <a href="" class="pull-right"><img src="componats/new-image/Next-Button.png" style="height:15px; width: 15px;"></a></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 devs-nopadding">
+                            <div class="banner-img">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="img-responsive" style="height:300px; width:100%;">
+                            </div>
+                            <div class="devs-imgdescri-four">
+                                <p class="imgdescri-one">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  a galley of type and scrambled it to make a <a href="" class="pull-right"><img src="componats/new-image/Next-Button.png" style="height:15px; width: 15px;"></a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="devs-academic-overly" style="background-image:url(<?php echo base_url(); ?>assets/frontend/componats/new-image/center-box.png);">
+                        <ul class="list-group" style="margin-top:28px;">
+                            <a href="" class="list-group-item devs-list-group">LOCATION</a>
+                            <a href="" class="list-group-item devs-list-group">CAMPUS</a>
+                            <a href="" class="list-group-item devs-list-group">FACULTY</a>
+                            <a href="" class="list-group-item devs-list-group">CONVOCATION</a>
+                            <a href="" class="list-group-item devs-list-group">CREDIT TRANSFER</a>
+                            <a href="" class="list-group-item devs-list-group">CLUBS</a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="devs-badmission">
+            <div class="container">
+                <div class=" col-md-offset-1 col-md-10">
+                    <div class="col-md-6">
+                        <h1 class="font-black" style="margin-top:15px">Great Place! Join Us and Keep Smiling</h1>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <a href="" type="button" class="btn btn-default get">INSPAIRATION</a>
+                        <a href="" type="button" class="btn btn-default get">GET ADMISSION</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="" style="padding: 20px 0px;">
+            <div class="container">
+                <h1 class="text-center devs-heading_famely font-black" style="font-size: 2em;">Success Stories</h1>
+                <p class="font-black" style="text-align:center; font-size: 15px; width: 50%; margin: 0 auto; font-family: 'Myriad Pro'">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                <div>
+                    <div class="col-md-7 devs-padding-style">
+                        <div class="hover-effect">
+                            <div class="hover-div">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/01.png" class="img-responsive" style="height: 300px; width: 100%;">
+                            </div>
+                        </div>
+                        <div class="devs-oursuccesstory">
+                            <h3>“I Got A New Job”</h3>
+                            <br>
+                            <p>EEE STUDENT</p>
+                            <div class="devs-per-info">
+                                <h3>Abida Sultana</h3>
+                                <p>Marketing Head Hubdhaka</p>
+                                <a href="" class="font-white" style="font-style:italic;">Watch Abida Story  <i class=" fa fa-caret-square-o-down" style="margin-left:10px;"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5 devs-padding-style">
+                        <div class="hover-effect">
+                            <div class="hover-div">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/02.png" class="img-responsive" style="height: 300px; width: 100%;">
+                            </div>
+                        </div>
+                        <div class="devs-oursuccesstory">
+                            <h3>“I’ Started My Own Business”</h3>
+                            <br>
+                            <p>BBA STUDENT</p>
+                            <div class="devs-per-info">
+                                <h3>Ovi Prabon</h3>
+                                <p>Marketing Head Hubdhaka</p>
+                                <a class="font-white" href="" style="font-style:italic;">Read Ovi Story  <i class=" fa fa-long-arrow-right" style="margin-left:10px;"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="col-md-5 devs-padding-style">
+                        <div class="hover-effect">
+                            <div class="hover-div">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/slider1.png" class="img-responsive" style="height: 300px; width: 100%;">
+                            </div>
+                        </div>
+                        <div class="devs-oursuccesstory">
+                            <h3>“My Path .Net”</h3>
+                            <br>
+                            <p>CSE STUDENT</p>
+
+                            <div class="devs-per-info">
+                                <h3>Nazmul Huda</h3>
+                                <p>Marketing Head Hubdhaka</p>
+                                <a class="font-white" href="" style="font-style:italic;">Read NAzmul's Story  <i class=" fa fa-long-arrow-right" style="margin-left:10px;"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7 devs-padding-style">
+                        <div class="hover-effect">
+                            <div class="hover-div">
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/03.png" class="img-responsive" style="height: 300px; width: 100%;">
+                            </div>
+                        </div>
+                        <div class="devs-oursuccesstory">
+                            <h3>“I Well Never Stop Learning Business”</h3>
+                            <br>
+                            <p>CSE STUDENT</p>
+
+                            <div class="devs-per-info">
+                                <h3>Faysal Jafree</h3>
+                                <p>Marketing Head Hubdhaka</p>
+                                <a class="font-white" href="" style="font-style:italic;">Watch Faysal Story  <i class=" fa fa-caret-square-o-down" style="margin-left:10px;"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="blog-section">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="blog-item">
+                        <div class="col-md-4">
+                            <div>
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/01.png" class="img-responsive" alt="">
+                            </div>
+                            <div class="post_date">
+                                <span class="day">16</span>
+                                <span class="month">Jan</span>
+                            </div>
+                            <div class="devs-blogdiscrip">
+                                <h3>Final Examination</h3>
+                                <p>Semester final examination of all courses of Fall Semester, 2016-17 will start from January </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div>
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/02.png" class="img-responsive" alt="">
+                            </div>
+                            <div class="post_date">
+                                <span class="day">02</span>
+                                <span class="month">Feb</span>
+                            </div>
+                            <div class="devs-blogdiscrip">
+                                <h3>Result Publication</h3>
+                                <p>The Semester Final Result of Fall Semester, 2016-17 will publish on February 02, 2017</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div>
+                                <img src="<?php echo base_url(); ?>assets/frontend/componats/TileImage/03.png" class="img-responsive" alt="">
+                            </div>
+                            <div class="post_date">
+                                <span class="day">05</span>
+                                <span class="month">Feb</span>
+                            </div>
+                            <div class="devs-blogdiscrip">
+                                <h3>New Semester</h3>
+                                <p>The classes of Spring Semester 2017 will start from February 05, 2017.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">	
+                <div id="tabs" class="tabs">
+                    <nav>
+                        <ul class="devs-tabs-con">
+                            <li><a href="#section-2"><i class="fa fa-book"></i> Course</a></li>
+                            <li><a href="#section-3" ><i class="fa fa-book" aria-hidden="true"></i> Events  </a></li>
+                            <li><a href="#section-4"><i class="fa fa-calendar-o" aria-hidden="true"></i> Notice </a></li>
+
+                        </ul>
+                    </nav>
+                    <div class="content">
+                        <section id="section-1">
+
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Graduate Courses (Day)</h3>
+                                </div>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">BBA</h4>
+                                        <p>Start 05 Feb 2017</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B.A. Hons. in English</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Sc Hons. in Economics</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">LL. B Hons.</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <!--                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Sc in CSE</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Sc in EEE</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. SC in Textile</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                 <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Arch</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>-->
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Graduate Courses <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Graduate Courses (Evening)</h3>
+                                </div>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Sc in CSE</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Sc in EEE</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B.SC in Textile</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">B. Arch</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Graduate Courses <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Master’s Program</h3>
+                                </div>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">MBA</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">EMBA</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">MBM</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">M. Sc in Mathematics</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <!--                                <div class="media">
+                                                                    <div class="media-left">
+                                                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                                                    </div>
+                                                                    <div class="media-body devs-media-font">
+                                                                        <h4 class="media-heading">M. Sc in Economics</h4>
+                                                                        <p>Start 3 Oct 2015</p>
+                                                                    </div>
+                                                                </div>
+                                                                <hr>
+                                                                <div class="media">
+                                                                    <div class="media-left">
+                                                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                                                    </div>
+                                                                    <div class="media-body devs-media-font">
+                                                                        <h4 class="media-heading">M.A. in ELT</h4>
+                                                                        <p>Start 3 Oct 2015</p>
+                                                                    </div>
+                                                                </div>
+                                                                <hr>
+                                                                <div class="media">
+                                                                    <div class="media-left">
+                                                                        <img src="componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                                                    </div>
+                                                                    <div class="media-body devs-media-font">
+                                                                        <h4 class="media-heading">LL. M</h4>
+                                                                        <p>Start 3 Oct 2015</p>
+                                                                    </div>
+                                                                </div>
+                                                                <hr>-->
+                                <a href="" class="devs-all-dip"> View All Master’s Program <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+
+                        </section>
+                        <section id="section-2">
+
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Upcoming</h3>
+                                </div>
+                                <div class="media">
+                                    <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign2">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Upcoming Event <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Recent</h3>
+                                </div>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Recent Event <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Previous </h3>
+                                </div>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/CB3.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="media">
+                                    <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Mathmatics <small>Diploma</small></h4>
+                                        <p>Start 3 Oct 2015</p>
+                                    </div>
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Previous Event <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+
+                        </section>
+                        <section id="section-3">
+
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>General </h3>
+                                </div>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All General Notice <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Class Related </h3>
+                                </div>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Class Related Notice <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="search-heading">
+                                    <h3>Exam Related</h3>
+                                </div>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_1.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <div class="media">
+                                <a href="" class="news_modal" data-toggle="modal" data-target="#popupdesign">
+                                        <div class="media-left">
+                                        <img src="<?php echo base_url(); ?>assets/frontend/componats/new-image/blog_2.jpg" class="media-object" style="width:60px; height: 60px;">
+                                    </div>
+                                    <div class="media-body devs-media-font">
+                                        <h4 class="media-heading">Final Examination of Fall Semester</h4>
+                                        <p> 3 Oct 2015</p>
+                                    </div>
+                                    </a>
+
+                                </div>
+                                <hr>
+                                <a href="" class="devs-all-dip"> View All Exam Related Notice <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            </div>
+                        </section>
+
+                    </div><!-- /content -->
+                </div><!-- /tabs -->
+            </div>
+        </section>
+        
